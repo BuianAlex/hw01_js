@@ -1,0 +1,14 @@
+{
+  "name": "js_task",
+  "version": "1.0.0",
+  "description": "find max min and sum in array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alex_Bu",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.1"
+  }
+}
